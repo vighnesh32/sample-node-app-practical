@@ -6,7 +6,7 @@ function App() {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      background: 'linear-gradient(120deg, #f6d365 0%, #fd6e6a 100%)'
+      background: 'linear-gradient(120deg, #f12020ff 0%, #c9fd6eff 100%)'
     }}>
       <span style={{
         color: '#2a9d8f',
@@ -17,7 +17,7 @@ function App() {
         borderRadius: '20px',
         boxShadow: '0 4px 32px rgba(0,0,0,0.15)'
       }}>
-        hello everyone
+        hello people
       </span>
     </div>
   );
